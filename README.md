@@ -10,15 +10,10 @@ The final output is intended to support operations teams with a daily priority l
 
 1. Clone or download this repository.
 2. Make sure the data files are available.
-3. Install the required packages:
+3. Install the required packages.
+4. Open and run the notebook from start to finish.
 
-   ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn
-   ```
-4. Open and run the notebook from start to finish:
 
-   ```bash
-   ```
 
 ## Packages Used
 
